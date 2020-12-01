@@ -11,15 +11,19 @@ Thus, I recommend using original library: `react-bnb-gallery` for other use case
 
 ## Install
 
-You can install [react-bnb-gallery](https://www.npmjs.com/package/react-bnb-gallery) from [npm](https://www.npmjs.com/).
+You can install [react-bnb-gallery](https://www.npmjs.com/package/@zawlinnnaing/react-bnb-gallery) from [npm](https://www.npmjs.com/).
 
 ```bash
 # If you are using npm
-npm install --save react-bnb-gallery
+npm install --save @zawlinnnaing/react-bnb-gallery
 
 # If you prefer yarn
-yarn add react-bnb-gallery
+yarn add @zawlinnnaing/react-bnb-gallery
 ```
+
+---
+
+**Starting from here, Documentation from original repo is shown.**
 
 ## Live Demo
 
