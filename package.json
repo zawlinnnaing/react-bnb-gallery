@@ -1,6 +1,6 @@
 {
   "name": "@zawlinnnaing/react-bnb-gallery",
-  "version": "1.5.0",
+  "version": "1.4.4",
   "description": "Simple photo gallery based on React and Airbnb image gallery. Forked from https://github.com/peterpalau/react-bnb-gallery",
   "author": "Zaw Linn Naing <zawlinnnaing0018@gmail.com>",
   "homepage": "https://peterpalau.github.io/react-bnb-gallery/",

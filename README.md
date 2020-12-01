@@ -1,17 +1,13 @@
 <p>
-  <img alt="react-bnb-gallery" width="250" src="https://raw.githubusercontent.com/peterpalau/react-bnb-gallery/master/rbg-logo.png" /><br />
   Friendly, customizable and accessible-ready simple photo gallery based on React.
 </p>
 
-<p>
-  <a href="https://www.npmjs.com/package/react-bnb-gallery" target="_blank"><img src="https://img.shields.io/npm/v/react-bnb-gallery.svg" alt="NPM"></a>
-  <a href="http://www.npmjs.com/package/react-bnb-gallery" target="_blank"><img src="http://img.shields.io/npm/dm/react-bnb-gallery.svg?style=flat" alt="Download Count" /></a>
-  <a href="https://travis-ci.org/peterpalau/react-bnb-gallery" target="_blank"><img src="https://travis-ci.org/peterpalau/react-bnb-gallery.svg?branch=master" alt="Build Status" /></a>
-  <a href="https://david-dm.org/peterpalau/react-bnb-gallery" target="_blank"><img src="https://david-dm.org/peterpalau/react-bnb-gallery.svg" alt="Dependencies" /></a>
-  <a href="https://david-dm.org/peterpalau/react-bnb-gallery?type=dev" taret="_blank"><img src="https://david-dm.org/peterpalau/react-bnb-gallery/dev-status.svg" alt="Dev Dependencie" /></a>
-</p>
 
 ------
+
+**IMPORTANT NOTICE**: This repository is forked from [https://github.com/peterpalau/react-bnb-gallery](https://github.com/peterpalau/react-bnb-gallery) and added custom component for photo options which is required for my personal use case. 
+**This repo is meant for those who needs custom components for images like me.**
+Thus, I recommend using original library: `react-bnb-gallery` for other use cases. I will pull from original repo from time to time but I won't guarantee this one would be up-to-date all time. Finally, I will stop maintaining this repo when original implements custom component feature.
 
 ## Install
 
