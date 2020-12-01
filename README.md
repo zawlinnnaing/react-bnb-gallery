@@ -22,6 +22,7 @@ yarn add @zawlinnnaing/react-bnb-gallery
 ```
 
 ---
+Changes for component props from custom photo update can be found [here](https://github.com/zawlinnnaing/react-bnb-gallery/blob/master/docs/pages/docs/options.mdx).
 
 **Starting from here, Documentation from original repo is shown.**
 
