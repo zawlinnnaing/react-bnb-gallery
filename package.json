@@ -1,8 +1,8 @@
 {
-  "name": "react-bnb-gallery",
+  "name": "@zawlinnnaing/react-bnb-gallery",
   "version": "1.4.4",
-  "description": "Simple photo gallery based on React and Airbnb image gallery",
-  "author": "Pedro Enrique Palau <pepalauisaac@gmail.com>",
+  "description": "Simple photo gallery based on React and Airbnb image gallery. Forked from https://github.com/peterpalau/react-bnb-gallery",
+  "author": "Zaw Linn Naing <zawlinnnaing0018@gmail.com>",
   "homepage": "https://peterpalau.github.io/react-bnb-gallery/",
   "keywords": [
     "react",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:peterpalau/react-bnb-gallery.git"
+    "url": "git@github.com:zawlinnnaing/react-bnb-gallery.git"
   },
   "license": "MIT",
   "main": "dist/index.js",
